@@ -1,0 +1,16 @@
+# OS
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temp / exports
+*.tmp
+~$*
+
+# Optional local PDF drafts (keep published resume.pdf tracked if you add it)
+# resume-draft.pdf
