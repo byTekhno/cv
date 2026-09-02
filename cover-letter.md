@@ -4,10 +4,6 @@
 
 ---
 
-## Полный вариант
-
-Для отклика на стажировку QA в Т-Банке или похожую вакансию.
-
 Здравствуйте!
 
 Меня зовут Славитинский Андрей, откликаюсь на стажировку QA-инженера.
@@ -19,10 +15,21 @@
 — выполнил тест-ран (Pass 35 / Fail 2 / Blocked 1);
 — оформил баг-репорты со шагами, ожидаемым/фактическим результатом и скриншотами;
 — разложил работу по репозиторию: тест-кейсы, чек-листы, test runs, bugs.
-Репозиторий: https://github.com/byTekhno/saucedemo-qa
+Репозиторий: [https://github.com/byTekhno/saucedemo-qa](https://github.com/byTekhno/saucedemo-qa)
 
 Также веду учебный проект по интернет-банку (курс Test Grow):
-https://github.com/byTekhno/testgrow-internet-bank-qa
+
+-Пройден смоук: Pass 3 / Fail 2
+
+-Выполнен прогон: Pass 22 / Fail 10 / Blocked 3 / Skipped 3 
+
+-Оформлены дефекты
+
+-Собраны кейсы: авторизация, меню, список счетов, детали счёта, перевод, регресс
+
+-Зафиксированы ТЗ и тест-план
+
+[https://github.com/byTekhno/testgrow-internet-bank-qa](https://github.com/byTekhno/testgrow-internet-bank-qa)
 
 По теории закрываю базу, которую обычно ждут от стажёра: виды тестирования, тест-дизайн, тестовая документация, DevTools, Git, ручное тестирование web/mobile. Дальше целенаправленно усиливаю API (Postman/Swagger), понимание клиент-серверного взаимодействия и основы работы с данными — понимаю, что это важно для роста в продуктовой команде.
 
@@ -32,24 +39,11 @@ https://github.com/byTekhno/testgrow-internet-bank-qa
 
 Буду рад возможности пройти дальше по отбору.
 Telegram: @byTekhno
-Email: Andrwhat86@gmail.com
-GitHub: https://github.com/byTekhno
+Email: [Andrwhat86@gmail.com](mailto:Andrwhat86@gmail.com)
+GitHub: [https://github.com/byTekhno](https://github.com/byTekhno)
 
 С уважением,
 Андрей Славитинский
 
 ---
 
-## Короткий вариант
-
-Если в форме отклика мало символов.
-
-Здравствуйте! Андрей Славитинский, Junior Manual QA / стажёр.
-
-Коммерческого опыта нет — есть учебная практика с документацией в GitHub:
-• Sauce Demo: smoke 14/14, test run 35/2/1, баг-репорты BUG-004…008 — https://github.com/byTekhno/saucedemo-qa
-• Internet Bank QA (Test Grow) — https://github.com/byTekhno/testgrow-internet-bank-qa
-
-Владею тест-кейсами, чек-листами, баг-репортами, базовым тест-дизайном; DevTools, Jira, Qase, TestIT, Git. Ищу стажировку QA, удалённо, от 20 ч/нед. Готов учиться API, БД и базовому коду в команде.
-
-Telegram: @byTekhno

@@ -4,9 +4,9 @@ Junior Manual QA / Стажёр QA-инженер
 
 Октябрьский · удалённый формат · готов от 20 часов в неделю
 
-**Email:** [Andrwhat86@gmail.com](mailto:Andrwhat86@gmail.com)  
+**Email:** Andrwhat86@gmail.com  
 **Telegram:** [@byTekhno](https://t.me/byTekhno)  
-**GitHub:** [https://github.com/byTekhno](https://github.com/byTekhno)
+**GitHub:** https://github.com/byTekhno
 
 ---
 
@@ -25,7 +25,15 @@ Junior Manual QA / Стажёр QA-инженер
 ### Тестирование
 
 - Функциональное тестирование (web, mobile — ручное)
-- Смоук- и регрессионное тестирование (на учебных проектах)
+- Модульное
+- Интеграционное
+- Системное
+- Сквозное
+- Альфа-тестирование
+- Бета-тестирование
+- Приёмочное
+- Регрессионное
+- Смоук
 - Нефункциональное тестирование: юзабилити, совместимость (базовый уровень)
 - Анализ требований и построение тестового покрытия
 - Оформление дефектов: steps to reproduce, expected/actual, severity / priority
@@ -47,7 +55,7 @@ Junior Manual QA / Стажёр QA-инженер
 
 ### Инструменты
 
-- Chrome DevTools
+- DevTools
 - Jira
 - Qase
 - TestIT
@@ -65,13 +73,13 @@ Junior Manual QA / Стажёр QA-инженер
 
 ---
 
-## Учебные проекты (практика вместо коммерческого опыта)
+## Учебные проекты
 
 ### 1. Manual QA — Sauce Demo (Swag Labs)
 
-**Ссылка:** [https://github.com/byTekhno/saucedemo-qa](https://github.com/byTekhno/saucedemo-qa)  
+**Ссылка:** https://github.com/byTekhno/saucedemo-qa  
 **Тип:** учебное портфолио ручного тестирования  
-**Объект:** веб-приложение [saucedemo.com](https://www.saucedemo.com) (демо-магазин Sauce Labs)  
+**Объект:** веб-приложение saucedemo.com (демо-магазин Sauce Labs)  
 **Стек практики:** ручное функциональное тестирование, чек-листы, тест-кейсы, test runs, bug reports, DevTools, Git
 
 **Что сделал:**
@@ -89,15 +97,20 @@ Junior Manual QA / Стажёр QA-инженер
 
 ### 2. Internet Bank QA (учебный проект курса Test Grow)
 
-**Ссылка:** [https://github.com/byTekhno/testgrow-internet-bank-qa](https://github.com/byTekhno/testgrow-internet-bank-qa)  
+**Ссылка:** https://github.com/byTekhno/testgrow-internet-bank-qa  
 **Тип:** учебное тестирование финтех-подобного стенда (интернет-банк)  
 **Стек практики:** требования, тест-план, тест-кейсы, тест-данные, test runs, bug reports
 
 **Что сделал:**
 
+- Пройден смоук: **Pass 3 / Fail 2**
+- Выполнен прогон: **Pass 22 / Fail 10 / Blocked 3 / Skipped 3**
+- Оформлены дефекты
+- Собраны кейсы: авторизация, меню, список счетов, детали счёта, перевод, регресс
+- Зафиксированы ТЗ и тест-план
 - Практикую полный цикл тестовой документации на учебном интернет-банке
 - Работаю с требованиями, тестовыми данными и оформлением дефектов
-- Разбираю сценарии, близкие к банковским пользовательским путям (как учебная практика, не коммерческий продукт)
+- Разбираю сценарии, близкие к банковским пользовательским путям (учебная практика, не коммерческий продукт)
 
 **Почему проект важен:** помогает переносить навыки ручного QA на домен, где важны точность сценариев, аккуратность в данных и понятная фиксация дефектов.
 
@@ -107,18 +120,18 @@ Junior Manual QA / Стажёр QA-инженер
 
 ### Test Grow — курс по тестированию *(в процессе)*
 
-Платформа: [testgrow.io](https://testgrow.io/blog)  
+Платформа: testgrow.io  
 Преподаватель: Александр Мешков, Head of QA (FirstLineSoftware)  
 Фокус: практическое тестирование, тестовая документация, подход к работе QA в продуктовой команде.
 
 ### Hexlet — «Введение в тестирование»
 
-Ссылка: [ru.hexlet.io/programs/testing-basics-free](https://ru.hexlet.io/programs/testing-basics-free)  
+Ссылка: ru.hexlet.io/programs/testing-basics-free  
 Базовая теория тестирования и старт в профессии.
 
 ### Stepik — «Тестирование ПО с нуля. Теория + практика. Базовый уровень»
 
-Ссылка: [stepik.org/course/171826](https://stepik.org/course/171826/syllabus)  
+Ссылка: stepik.org/course/171826  
 Теория + практика базового уровня: виды тестирования, документация, основы подхода к проверкам.
 
 ---

@@ -13,17 +13,24 @@ Junior Manual QA / Стажёр QA-инженер
 Пишу тест-кейсы, чек-листы и баг-репорты; применяю базовый тест-дизайн.  
 Ищу **стажировку** или **Junior Manual QA** в продуктовой команде.
 
-| | |
-|---|---|
-| **Сильные стороны** | внимательность, системность в документации и прогонах |
-| **Фокус** | web / mobile (ручное), продуктовое QA, интерес к финтеху |
-| **Сейчас учу** | API (Postman/Swagger), основы клиент-сервер и БД, базовый код |
+
+|                     |                                                               |
+| ------------------- | ------------------------------------------------------------- |
+| **Сильные стороны** | внимательность, системность в документации и прогонах         |
+| **Фокус**           | web / mobile (ручное), продуктовое QA                         |
+| **Сейчас учу**      | API (Postman/Swagger), основы клиент-сервер и БД, базовый код |
+
 
 ---
 
+
+
 ## Портфолио
 
+
+
 ### [saucedemo-qa](https://github.com/byTekhno/saucedemo-qa)
+
 Учебное ручное тестирование [saucedemo.com](https://www.saucedemo.com)
 
 - Smoke: **14/14 Pass**
@@ -32,14 +39,25 @@ Junior Manual QA / Стажёр QA-инженер
 - Модули: логин, каталог, корзина, checkout, меню
 - Структура: `checklists/` · `test-cases/` · `test-runs/` · `bugs/`
 
+
+
 ### [testgrow-internet-bank-qa](https://github.com/byTekhno/testgrow-internet-bank-qa)
+
 Учебный интернет-банк (курс Test Grow): требования, тест-план, кейсы, прогоны, баг-репорты
+
+- Пройден смоук: Pass 3 / Fail 2 (++[test-runs/2026-08-29.md](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/test-runs/2026-08-29.md)++)
+- Выполнен прогон: Pass 22 / Fail 10 / Blocked 3 / Skipped 3 (++[test-runs/2026-08-29.md](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/test-runs/2026-08-29.md)++)
+- Оформлены дефекты: ++[BUG-001](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-001-savings-no-account-details.md)++, ++[BUG-002](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-002-transfer-amount-question-marks.md)++, ++[BUG-003](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-003-same-account-type-transfer-blocked.md)++, ++[BUG-004](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-004-deposit-account-not-shown.md)++, ++[BUG-005](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-005-credit-list-no-currency-filter.md)++, ++[BUG-006](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-006-ruble-limit-boundary-transfer-allowed.md)++, ++[BUG-007](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-007-ruble-minimum-transfer-1000.md)++, ++[BUG-008](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-008-negative-amount-button-active.md)++
+- Собраны кейсы: авторизация, меню, список счетов, детали счёта, перевод, регресс
+- Зафиксированы ТЗ и тест-план: ++[requirements/ibrequirements.md](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/requirements/ibrequirements.md)++, ++[test-plans/](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/test-plans)++
 
 ---
 
+
+
 ## Навыки
 
-**Тестирование:** функциональное · smoke / regress (учебные прогоны) · юзабилити / совместимость (база)  
+**Тестирование:** функциональное, модульное, интеграционное, системное, сквозное, альфа- тестирование, бета- тестирование, приёмочное, регрессионное, smoke, Юзабилити, Black box, White box.  
 **Тест-дизайн:** EP · BVA · Decision Table · Pairwise · State Transition  
 **Документация:** тест-кейсы · чек-листы · баг-репорты · test runs  
 **Инструменты:** DevTools · Jira · Qase · TestIT · Git / GitHub  
@@ -47,17 +65,22 @@ Junior Manual QA / Стажёр QA-инженер
 
 ---
 
+
+
 ## Файлы в этом репозитории
 
-| Файл | Описание |
-|------|----------|
-| [resume.md](./resume.md) | Полное резюме |
-| [cover-letter.md](./cover-letter.md) | Сопроводительное письмо (полный и короткий варианты) |
-| [hh-guide.md](./hh-guide.md) | Как заполнить профиль на hh.ru |
 
-> PDF можно добавить позже как `resume.pdf` или через GitHub Releases.
+| Файл                                 | Описание                |
+| ------------------------------------ | ----------------------- |
+| [resume.md](./resume.md)             | Полное резюме           |
+| [resume.pdf](./resume.pdf)           | Резюме в PDF            |
+| [cover-letter.md](./cover-letter.md) | Сопроводительное письмо |
+|                                      |                         |
+
 
 ---
+
+
 
 ## Обучение
 
@@ -69,12 +92,6 @@ Junior Manual QA / Стажёр QA-инженер
 
 ---
 
-## Как пользоваться репозиторием
-
-1. Откройте [resume.md](./resume.md) — полная версия для чтения.
-2. Для откликов копируйте текст из [cover-letter.md](./cover-letter.md).
-3. В hh и письмах давайте ссылку на профиль: [github.com/byTekhno](https://github.com/byTekhno) и на этот репозиторий после публикации.
-
 ---
 
-*Учебные проекты и курсы — не коммерческий опыт. Формулировки без приукрашивания.*
+*Учебные проекты и курсы — не коммерческий опыт.*
