@@ -3,7 +3,7 @@
 Junior Manual QA / Стажёр QA-инженер  
 Октябрьский · удалённо · готов от 20 часов в неделю
 
-[Email](mailto:Andrwhat86@gmail.com) · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](https://github.com/byTekhno)
+Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](https://github.com/byTekhno)
 
 ---
 
