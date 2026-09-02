@@ -69,13 +69,18 @@ Junior Manual QA / Стажёр QA-инженер
 
 ## Файлы в этом репозитории
 
-
-| Файл                                 | Описание                |
+| Файл | Описание |
 | ------------------------------------ | ----------------------- |
-| [resume.md](./resume.md)             | Полное резюме           |
-| [resume.pdf](./resume.pdf)           | Резюме в PDF            |
+| [resume.md](./resume.md) | Полное резюме |
+| [resume.pdf](./resume.pdf) | Резюме в PDF |
 | [cover-letter.md](./cover-letter.md) | Сопроводительное письмо |
-|                                      |                         |
+
+**Скачать PDF:**
+- [Прямая ссылка (raw)](https://github.com/byTekhno/cv/raw/main/resume.pdf)
+- [Release v1.0](https://github.com/byTekhno/cv/releases/download/v1.0/resume.pdf)
+
+> На странице файла GitHub иногда показывает ошибку превью («Unable to render…»).  
+> Это баг встроенного просмотрщика — сам PDF целый. Нажмите иконку **Download** или откройте ссылку выше.
 
 
 ---
