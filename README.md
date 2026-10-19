@@ -44,11 +44,19 @@ Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](
 - Модули: авторизация, меню, список счетов, детали счёта, перевод, регресс
 - Требования и тест-план: [requirements/ibrequirements.md](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/requirements/ibrequirements.md), [test-plans/](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/test-plans)
 
+### [mobile-qa](https://github.com/byTekhno/mobile-qa)
+
+Мобильный веб на реальном iPhone 11 (iOS 27.0.1, Safari): [saucedemo.com](https://www.saucedemo.com)
+
+- Чек-лист: **37 проверок** — смоук, вёрстка, клавиатура, навигация, прерывания, сеть ([checklists/smoke-ios-safari.md](https://github.com/byTekhno/mobile-qa/blob/main/checklists/smoke-ios-safari.md))
+- Test run: **Pass 36 / Fail 0 / Blocked 1** ([test-runs/2026-10-19.md](https://github.com/byTekhno/mobile-qa/blob/main/test-runs/2026-10-19.md))
+- Новых дефектов нет; подтверждён известный дефект `visual_user`, наблюдения сверены с десктопом на 375px
+
 ---
 
 ## Навыки
 
-**Тестирование:** ручное функциональное (web, mobile) · smoke · регрессионное · сквозное (E2E) · альфа- и бета-тестирование · юзабилити и совместимость (базово)  
+**Тестирование:** ручное функциональное (web, мобильный веб на iPhone / Safari) · smoke · регрессионное · сквозное (E2E) · альфа- и бета-тестирование · юзабилити и совместимость (базово)  
 **Уровни тестирования (теория):** модульное · интеграционное · системное · приёмочное  
 **Подходы:** black box · white box (теория)  
 **Тест-дизайн:** EP · BVA · Decision Table · Pairwise · State Transition  

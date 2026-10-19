@@ -6,13 +6,13 @@
   <style>
     @page {
       size: A4;
-      margin: 14mm 14mm 14mm 14mm;
+      margin: 11mm 12mm 11mm 12mm;
     }
     * { box-sizing: border-box; }
     body {
       font-family: "Segoe UI", Arial, sans-serif;
-      font-size: 10.2pt;
-      line-height: 1.38;
+      font-size: 9.6pt;
+      line-height: 1.32;
       color: #1a1a1a;
       margin: 0;
       padding: 0;
@@ -105,7 +105,7 @@
 
   <div class="skill-block">
     <span class="skill-label">Тестирование:</span>
-    <span class="skill-text">ручное функциональное (web, mobile); smoke; регрессионное; сквозное (E2E); альфа- и бета-тестирование. Нефункциональное: юзабилити, совместимость (базовый уровень). Уровни (теория): модульное, интеграционное, системное, приёмочное. Подходы: black box; white box (теория). Анализ требований и построение тестового покрытия. Оформление дефектов: steps to reproduce, expected/actual, severity / priority.</span>
+    <span class="skill-text">ручное функциональное (web, мобильный веб); smoke; регрессионное; сквозное (E2E); альфа- и бета-тестирование. Нефункциональное: юзабилити, совместимость (базовый уровень). Уровни (теория): модульное, интеграционное, системное, приёмочное. Подходы: black box; white box (теория). Анализ требований и построение тестового покрытия. Оформление дефектов: steps to reproduce, expected/actual, severity / priority.</span>
   </div>
   <div class="skill-block">
     <span class="skill-label">Тест-дизайн:</span>
@@ -121,7 +121,7 @@
   </div>
   <div class="skill-block">
     <span class="skill-label">Платформы:</span>
-    <span class="skill-text">Web · Mobile (ручное тестирование)</span>
+    <span class="skill-text">Web · мобильный веб (реальное устройство iPhone / Safari)</span>
   </div>
   <div class="skill-block">
     <span class="skill-label">Языки:</span>
@@ -165,6 +165,22 @@
     <li>Разобрал сценарии, близкие к банковским пользовательским путям (учебная практика, не коммерческий продукт)</li>
   </ul>
   <p class="result"><strong>Почему проект важен:</strong> помогает переносить навыки ручного QA на домен, где важны точность сценариев, аккуратность в данных и понятная фиксация дефектов.</p>
+
+  <h3>3. Mobile QA — iPhone / Safari</h3>
+  <div class="project-meta">
+    <div><strong>Ссылка:</strong> <a href="https://github.com/byTekhno/mobile-qa">https://github.com/byTekhno/mobile-qa</a></div>
+    <div><strong>Тип:</strong> учебное ручное тестирование мобильного веба на реальном устройстве</div>
+    <div><strong>Объект:</strong> saucedemo.com в Safari на iPhone 11 (iOS 27.0.1)</div>
+  </div>
+  <p><strong>Что сделал:</strong></p>
+  <ul>
+    <li>Составил мобильный чек-лист на 37 проверок: смоук + экран и вёрстка, ввод и клавиатура, навигация, прерывания и сеть</li>
+    <li>Выполнил прогон на реальном iPhone: <strong>Pass 36 / Fail 0 / Blocked 1</strong></li>
+    <li>Проверил поворот экрана посреди checkout, экранную клавиатуру, свайп «назад» после Logout, iOS-пикер, приватную вкладку, сворачивание Safari, авиарежим и слабую сеть</li>
+    <li>Отделил мобильные дефекты от особенностей сайта: каждое подозрение сверял с десктопом на ширине 375px</li>
+    <li>Зафиксировал наблюдение: в авиарежиме заказ «оформляется» без ошибки, так как сайт клиентский; в реальном магазине это был бы критичный дефект</li>
+  </ul>
+  <p class="result"><strong>Результат:</strong> новых дефектов на iPhone не найдено, подтверждён известный дефект <code>visual_user</code>; результаты задокументированы со скриншотами.</p>
 
   <h2>Опыт работы</h2>
   <h3>Транснефть — Сибирь · Слесарь механосборочных работ <span class="muted" style="font-weight:400">· март 2023 — апрель 2025</span></h3>
