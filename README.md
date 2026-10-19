@@ -27,11 +27,12 @@ Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](
 
 Учебное ручное тестирование [saucedemo.com](https://www.saucedemo.com)
 
-- Smoke: **14/14 Pass**
-- Test run: **Pass 35 / Fail 2 / Blocked 1**
-- Баг-репорты: **BUG-004 … BUG-008** (BUG-001…003 — известные дефекты демо-стенда)
-- Модули: логин, каталог, корзина, checkout, меню
-- Структура: `checklists/` · `test-cases/` · `test-runs/` · `bugs/`
+- Smoke: **14/14 Pass** ([checklists/smoke.md](https://github.com/byTekhno/saucedemo-qa/blob/main/checklists/smoke.md))
+- Test run: **Pass 35 / Fail 2 / Blocked 1** ([test-runs/2026-08-20.md](https://github.com/byTekhno/saucedemo-qa/blob/main/test-runs/2026-08-20.md))
+- Баг-репорты: [BUG-004](https://github.com/byTekhno/saucedemo-qa/blob/main/bugs/BUG-004-empty-cart-checkout.md), [BUG-005](https://github.com/byTekhno/saucedemo-qa/blob/main/bugs/BUG-005-reset-app-state-buttons.md), [BUG-006](https://github.com/byTekhno/saucedemo-qa/blob/main/bugs/BUG-006-error-user-remove-not-clickable.md), [BUG-007](https://github.com/byTekhno/saucedemo-qa/blob/main/bugs/BUG-007-error-user-add-disabled.md), [BUG-008](https://github.com/byTekhno/saucedemo-qa/blob/main/bugs/BUG-008-error-user-checkout-lastname-finish.md)
+- Известные дефекты демо-стенда (подтверждены): [BUG-001](https://github.com/byTekhno/saucedemo-qa/blob/main/bugs/BUG-001-wrong-images-problem-user.md), [BUG-002](https://github.com/byTekhno/saucedemo-qa/blob/main/bugs/BUG-002-checkout-lastname-problem-user.md), [BUG-003](https://github.com/byTekhno/saucedemo-qa/blob/main/bugs/BUG-003-visual-user-layout.md)
+- Модули: [логин](https://github.com/byTekhno/saucedemo-qa/blob/main/test-cases/01-login.md), [каталог](https://github.com/byTekhno/saucedemo-qa/blob/main/test-cases/02-inventory.md), [корзина](https://github.com/byTekhno/saucedemo-qa/blob/main/test-cases/03-cart.md), [checkout](https://github.com/byTekhno/saucedemo-qa/blob/main/test-cases/04-checkout.md), [меню и сессия](https://github.com/byTekhno/saucedemo-qa/blob/main/test-cases/05-menu-and-session.md)
+- Структура: [`checklists/`](https://github.com/byTekhno/saucedemo-qa/tree/main/checklists) · [`test-cases/`](https://github.com/byTekhno/saucedemo-qa/tree/main/test-cases) · [`test-runs/`](https://github.com/byTekhno/saucedemo-qa/tree/main/test-runs) · [`bugs/`](https://github.com/byTekhno/saucedemo-qa/tree/main/bugs)
 
 ### [testgrow-internet-bank-qa](https://github.com/byTekhno/testgrow-internet-bank-qa)
 
