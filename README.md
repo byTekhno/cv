@@ -1,6 +1,6 @@
 # CV — Славитинский Андрей Михайлович
 
-Junior Manual QA / 
+Junior Manual QA  
 Уфа · удалённо · готов от 20 часов в неделю
 
 Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](https://github.com/byTekhno)
@@ -11,8 +11,7 @@ Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](
 
 Начинающий Manual QA с учебной практикой и полной тестовой документацией в GitHub.  
 Пишу тест-кейсы, чек-листы и баг-репорты; применяю базовый тест-дизайн.  
-Ищу **стажировку** или **Junior Manual QA** в продуктовой команде.
-
+Ищу позицию **Junior Manual QA** в продуктовой команде.
 
 |                     |                                                               |
 | ------------------- | ------------------------------------------------------------- |
@@ -20,14 +19,9 @@ Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](
 | **Фокус**           | web / mobile (ручное), продуктовое QA                         |
 | **Сейчас учу**      | API (Postman/Swagger), основы клиент-сервер и БД, базовый код |
 
-
 ---
 
-
-
 ## Портфолио
-
-
 
 ### [saucedemo-qa](https://github.com/byTekhno/saucedemo-qa)
 
@@ -39,25 +33,23 @@ Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](
 - Модули: логин, каталог, корзина, checkout, меню
 - Структура: `checklists/` · `test-cases/` · `test-runs/` · `bugs/`
 
-
-
 ### [testgrow-internet-bank-qa](https://github.com/byTekhno/testgrow-internet-bank-qa)
 
 Учебный интернет-банк (курс Test Grow): требования, тест-план, кейсы, прогоны, баг-репорты
 
-- Пройден смоук: Pass 3 / Fail 2 (++[test-runs/2026-08-29.md](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/test-runs/2026-08-29.md)++)
-- Выполнен прогон: Pass 22 / Fail 10 / Blocked 3 / Skipped 3 (++[test-runs/2026-08-29.md](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/test-runs/2026-08-29.md)++)
-- Оформлены дефекты: ++[BUG-001](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-001-savings-no-account-details.md)++, ++[BUG-002](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-002-transfer-amount-question-marks.md)++, ++[BUG-003](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-003-same-account-type-transfer-blocked.md)++, ++[BUG-004](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-004-deposit-account-not-shown.md)++, ++[BUG-005](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-005-credit-list-no-currency-filter.md)++, ++[BUG-006](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-006-ruble-limit-boundary-transfer-allowed.md)++, ++[BUG-007](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-007-ruble-minimum-transfer-1000.md)++, ++[BUG-008](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-008-negative-amount-button-active.md)++
-- Собраны кейсы: авторизация, меню, список счетов, детали счёта, перевод, регресс
-- Зафиксированы ТЗ и тест-план: ++[requirements/ibrequirements.md](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/requirements/ibrequirements.md)++, ++[test-plans/](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/test-plans)++
+- Smoke: **Pass 3 / Fail 2** ([test-runs/2026-08-29.md](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/test-runs/2026-08-29.md))
+- Test run: **Pass 22 / Fail 10 / Blocked 3 / Skipped 3** ([test-runs/2026-08-29.md](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/test-runs/2026-08-29.md))
+- Баг-репорты: [BUG-001](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-001-savings-no-account-details.md), [BUG-002](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-002-transfer-amount-question-marks.md), [BUG-003](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-003-same-account-type-transfer-blocked.md), [BUG-004](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-004-deposit-account-not-shown.md), [BUG-005](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-005-credit-list-no-currency-filter.md), [BUG-006](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-006-ruble-limit-boundary-transfer-allowed.md), [BUG-007](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-007-ruble-minimum-transfer-1000.md), [BUG-008](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/bug-reports/BUG-008-negative-amount-button-active.md)
+- Модули: авторизация, меню, список счетов, детали счёта, перевод, регресс
+- Требования и тест-план: [requirements/ibrequirements.md](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/requirements/ibrequirements.md), [test-plans/](https://github.com/byTekhno/testgrow-internet-bank-qa/blob/main/test-plans)
 
 ---
 
-
-
 ## Навыки
 
-**Тестирование:** функциональное, модульное, интеграционное, системное, сквозное, альфа- тестирование, бета- тестирование, приёмочное, регрессионное, smoke, Юзабилити, Black box, White box.  
+**Тестирование:** ручное функциональное (web, mobile) · smoke · регрессионное · сквозное (E2E) · альфа- и бета-тестирование · юзабилити и совместимость (базово)  
+**Уровни тестирования (теория):** модульное · интеграционное · системное · приёмочное  
+**Подходы:** black box · white box (теория)  
 **Тест-дизайн:** EP · BVA · Decision Table · Pairwise · State Transition  
 **Документация:** тест-кейсы · чек-листы · баг-репорты · test runs  
 **Инструменты:** DevTools · Jira · Qase · TestIT · Git / GitHub  
@@ -65,14 +57,12 @@ Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](
 
 ---
 
-
-
 ## Файлы в этом репозитории
 
-| Файл | Описание |
+| Файл                                 | Описание                |
 | ------------------------------------ | ----------------------- |
-| [resume.md](./resume.md) | Полное резюме |
-| [resume.pdf](./resume.pdf) | Резюме в PDF |
+| [resume.md](./resume.md)             | Полное резюме           |
+| [resume.pdf](./resume.pdf)           | Резюме в PDF            |
 | [cover-letter.md](./cover-letter.md) | Сопроводительное письмо |
 
 **Скачать PDF:**
@@ -82,10 +72,7 @@ Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](
 > На странице файла GitHub иногда показывает ошибку превью («Unable to render…»).  
 > Это баг встроенного просмотрщика — сам PDF целый. Нажмите иконку **Download** или откройте ссылку выше.
 
-
 ---
-
-
 
 ## Обучение
 
@@ -94,8 +81,6 @@ Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](
 - **Stepik** — [Тестирование ПО с нуля](https://stepik.org/course/171826/syllabus)
 
 **Образование:** УрФУ (Екатеринбург), Институт материаловедения и металлургии, 2018
-
----
 
 ---
 
