@@ -29,7 +29,7 @@ Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](
 
 - Smoke: **14/14 Pass**
 - Test run: **Pass 35 / Fail 2 / Blocked 1**
-- Баг-репорты: **BUG-004 … BUG-008**
+- Баг-репорты: **BUG-004 … BUG-008** (BUG-001…003 — известные дефекты демо-стенда)
 - Модули: логин, каталог, корзина, checkout, меню
 - Структура: `checklists/` · `test-cases/` · `test-runs/` · `bugs/`
 
@@ -74,12 +74,13 @@ Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](
 
 ---
 
-## Обучение
+## Опыт и обучение
 
 - **Test Grow** — курс по тестированию *(в процессе)*
 - **Hexlet** — [Введение в тестирование](https://ru.hexlet.io/programs/testing-basics-free)
 - **Stepik** — [Тестирование ПО с нуля](https://stepik.org/course/171826/syllabus)
 
+**Опыт до QA:** 3 года на производстве (Транснефть — Сибирь, РН-Юганскнефтегаз) — сборка, ремонт и испытания оборудования на стенде, выявление и предупреждение брака.  
 **Образование:** УрФУ (Екатеринбург), Институт материаловедения и металлургии, 2018
 
 ---
