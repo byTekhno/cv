@@ -1,7 +1,7 @@
 # CV — Славитинский Андрей Михайлович
 
-Junior Manual QA / Стажёр QA-инженер  
-Октябрьский · удалённо · готов от 20 часов в неделю
+Junior Manual QA / 
+Уфа · удалённо · готов от 20 часов в неделю
 
 Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](https://github.com/byTekhno)
 
