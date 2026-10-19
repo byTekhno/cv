@@ -21,6 +21,7 @@
 - провёл smoke-прогон (Pass 3 / Fail 2) и полный прогон (Pass 22 / Fail 10 / Blocked 3 / Skipped 3);
 - оформил баг-репорты BUG-001 … BUG-008: лимиты и границы сумм переводов, отображение счетов, фильтры;
 - зафиксировал ТЗ, составил тест-план, собрал тест-кейсы по авторизации, счетам и переводам;
+- загрузил 38 кейсов и результаты прогона в Qase ([скриншоты](https://github.com/byTekhno/testgrow-internet-bank-qa#кейсы-и-прогон-в-qase));
 - перенёс баги в Jira (импорт из CSV, метки, доска): [скриншоты](https://github.com/byTekhno/testgrow-internet-bank-qa#баги-в-jira).
 
 **Мобильный веб на iPhone** — [github.com/byTekhno/mobile-qa](https://github.com/byTekhno/mobile-qa)
