@@ -76,7 +76,6 @@ Andrwhat86@gmail.com · [Telegram @byTekhno](https://t.me/byTekhno) · [GitHub](
 
 **Скачать PDF:**
 - [Прямая ссылка (raw)](https://github.com/byTekhno/cv/raw/main/resume.pdf)
-- [Release v1.0](https://github.com/byTekhno/cv/releases/download/v1.0/resume.pdf)
 
 ---
 
